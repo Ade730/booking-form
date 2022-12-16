@@ -1,0 +1,48 @@
+body{
+    background: rgb(63, 99, 81);
+    font-family: sans-serif;
+
+}
+
+
+.form{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 700px;
+    padding: 70px;
+    transform: translate(-50%,-50%);
+    background-color: rgb(49, 129, 80);
+    box-sizing: border-box;
+    border-radius: 5px;
+    line-height: 3.0;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin: auto;
+    color: antiquewhite;
+}
+
+.header{
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    margin: auto;
+    color: green;
+
+
+}
+
+.input{
+    width: 350px;
+    font-size: 14px;
+}
+
+.buttons{
+    text-align: center;
+    background: none;
+    font-size: large;
+    font-weight: bold;
+    margin: 10px;
+
+}
